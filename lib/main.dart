@@ -26,7 +26,7 @@ class MyApp extends StatelessWidget {
                 height: 10,
               ),
               Text(
-                'Mohammed Faisal Adam',
+                'Mohammed Adam',
                 style: TextStyle(
                   fontSize: 20.0,
                   color: Colors.white,
@@ -70,7 +70,7 @@ class MyApp extends StatelessWidget {
                 child: Row(
                   children: [
                     Icon(Icons.email),
-                    Text('Mainform8@gmail.com'),
+                    Text('AzorAhai@email.com'),
                   ],
                 ),
               ),
